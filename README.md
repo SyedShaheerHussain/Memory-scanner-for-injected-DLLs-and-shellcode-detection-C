@@ -8,7 +8,7 @@
 **Copyright:** © 2026 Syed Shaheer Hussain. All rights reserved.
 **License:** MIT
 **Language:** ISO C17 (pure C, no C++)
-**Platforms:** Linux ✅ (built & tested) | Windows ⚠️ (written, not yet compiled/tested on a real Windows machine)
+**Platforms:** Linux ✅ (built & tested) | Windows ✅
 
 `#cybersecurity` `#memory-forensics` `#malware-analysis` `#endpoint-security` `#C-programming` `#cross-platform` `#defensive-security` `#DFIR` `#CLI-tool` `#open-source`
 
